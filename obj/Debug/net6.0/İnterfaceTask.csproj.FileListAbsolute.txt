@@ -1,0 +1,14 @@
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\obj\Debug\net6.0\İnterfaceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\obj\Debug\net6.0\İnterfaceTask.AssemblyInfoInputs.cache
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\obj\Debug\net6.0\İnterfaceTask.AssemblyInfo.cs
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\obj\Debug\net6.0\İnterfaceTask.csproj.CoreCompileInputs.cache
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\bin\Debug\net6.0\İnterfaceTask.exe
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\bin\Debug\net6.0\İnterfaceTask.deps.json
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\bin\Debug\net6.0\İnterfaceTask.runtimeconfig.json
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\bin\Debug\net6.0\İnterfaceTask.dll
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\bin\Debug\net6.0\İnterfaceTask.pdb
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\obj\Debug\net6.0\İnterfaceTask.dll
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\obj\Debug\net6.0\refint\İnterfaceTask.dll
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\obj\Debug\net6.0\İnterfaceTask.pdb
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\obj\Debug\net6.0\İnterfaceTask.genruntimeconfig.cache
+C:\Users\BLACK\Desktop\Interfaces.task\İnterfaceTask\obj\Debug\net6.0\ref\İnterfaceTask.dll
